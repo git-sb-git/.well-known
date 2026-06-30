@@ -4,7 +4,7 @@
       {
         "appIDs": ["KTL7Y89WAX.com.facilit8ai.cadence"],
         "components": [
-          { "/": "/invite/*", "comment": "Matches invite links" }
+          { "*": "/invite/*", "comment": "Matches invite links" }
         ]
       }
     ]
